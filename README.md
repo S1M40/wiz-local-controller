@@ -25,6 +25,16 @@ No cloud account · No internet API · No third-party packages
 | :--- | :--- | :--- |
 | Scan your private network for WiZ lights. | Add the lights you choose to your dashboard. | Commands go directly from your computer to your lamps. |
 
+## 🖥️ Screenshots
+
+**Dashboard**
+
+![WiZ Local Controller dashboard](screenshots/1.png)
+
+**Discover lights**
+
+![Network discovery showing a WiZ lamp](screenshots/2.jpg)
+
 ## 📋 Before you start
 
 - [Node.js 18 or newer](https://nodejs.org/)
