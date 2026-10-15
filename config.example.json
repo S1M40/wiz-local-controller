@@ -1,0 +1,6 @@
+{
+  "bind": "local",
+  "port": 4173,
+  "allowedHosts": [],
+  "allowedClients": []
+}
