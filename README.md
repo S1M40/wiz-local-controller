@@ -38,11 +38,10 @@ No cloud account · No internet API · No third-party packages
 Download this repository as a ZIP from GitHub and extract it, or clone it:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/wiz-local-controller.git
+git clone https://github.com/S1M40/wiz-local-controller.git
 cd wiz-local-controller
 ```
 
-> Replace `YOUR-USERNAME` with the repository owner's GitHub username.
 
 ### 2 · Start the controller
 
